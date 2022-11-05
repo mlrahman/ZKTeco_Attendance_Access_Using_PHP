@@ -6,8 +6,6 @@ For model K14 TCP port 4370 is used.
 
 The format of the data are: binary, string, and number. The length of the parameter and return value must be vary.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DMHFJ6LR7FGQS)
-
 ## Example
 ```php
 <?php
